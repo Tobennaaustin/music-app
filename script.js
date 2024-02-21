@@ -15,7 +15,7 @@ function getTimeOfDay() {
 // Display the greeting
 const greetingElement = document.getElementById('greeting');
 const greeting = getTimeOfDay();
-greetingElement.textContent = `${greeting} #######`;
+greetingElement.textContent = `${greeting} Jewel`;
 
 
 const swiper = new Swiper('.swiper', {
