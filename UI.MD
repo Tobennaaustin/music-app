@@ -1,0 +1,6 @@
+--Home screen with featured playlists and top songs
+--Search and discover screen
+--Song player with playback controls
+--Playlist creation and management screen
+--User profile and settings
+--Offline downloads and library management
