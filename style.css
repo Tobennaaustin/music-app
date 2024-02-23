@@ -194,37 +194,47 @@ body{
     #foryou6,
     #foryou7,
     #foryou8,
-    #foryou9 {
+    #foryou9,
+    #Artiste-for-you1,
+    #Artiste-for-you2,
+    #Artiste-for-you3,
+    #Artiste-for-you4,
+    #Artiste-for-you5,
+    #mood1,
+    #mood2,
+    #mood3,
+    #mood4,
+    #mood5 {
         height: 100px;
         width: 300px;
     }
 
     #foryou1 {
-        background-image: url('images/foryou1.jpg');
+        background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/popmix.jpeg'), rgba(0, 0, 0, 0.5);
         background-position: center;
         object-fit: center;
         background-size: cover;
     }
     #foryou2 {
-        background-image: url('images/foryou2.jpg');
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/naija\ jams.jpeg');
         background-position: center;
         object-fit: center;
         background-size: cover;
     }
     #foryou3 {
-        background-image: url('images/foryou3.jpg');
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/topsongs.jpeg');
         background-position: center;
         object-fit: center;
         background-size: cover;
     }
     #foryou4 {
-        background-image: url('images/foryou4.jpg');
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/sadsongs.jpeg');
         background-position: center;
         object-fit: center;
         background-size: cover;
     }
     #foryou5 {
-        background-image: url('images/foryou5.jpg');
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/tiktokjam.png');
         background-position: center;
         object-fit: center;
         background-size: cover;
@@ -275,6 +285,157 @@ body{
         font-size: 20px;
         font-weight: 400;
     }
+    #Artiste-for-you1{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/DRAKE.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #Artiste-for-you2{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/dax.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #Artiste-for-you3{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/ARIANA.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #Artiste-for-you4{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/NF.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #Artiste-for-you5{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/JUICE-WRLD.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #Artiste-for-you1 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #Artiste-for-you2 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #Artiste-for-you3 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #Artiste-for-you4 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #Artiste-for-you5 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #mood1{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/sing\ in\ the\ shower.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #mood2{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/comfor-zone.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #mood3{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/chill-hits.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #mood4{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/life-sucks.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #mood5{
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url('images/good-vibes.jpeg');
+        background-position: center;
+        object-fit: center;
+        background-size: cover;
+    }
+    #mood1 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #mood2 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #mood3 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #mood4 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+    #mood5 p {
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+        font-family: var(--bodyfamily);
+        font-size: 20px;
+        font-weight: 400;
+    }
+
 }
 
 /* for tablet */
