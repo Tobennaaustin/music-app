@@ -39,3 +39,8 @@ const swiper = new Swiper('.swiper', {
     el: '.swiper-scrollbar',
   },
 });
+
+const search = document.getElementsByClassName("search");
+search.addEventListener('click', () => {
+  windows.location.href = "search.html"
+});
